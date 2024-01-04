@@ -1,0 +1,11 @@
+<script src="https://deadsimplechat.com/js/embed.js" type="text/javascript"></script>
+            <script>
+        window.DeadSimpleChat.initBubble({
+            location: "https://deadsimplechat.com",
+            size: "small",
+            roomId: "Jl-nDMBfl",
+            open: "true",
+            
+            
+        })
+    </script>
